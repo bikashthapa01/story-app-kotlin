@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1025/367/267</item>
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1025/367/267</item>
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1025/367/267</item>
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1024/1920/1280</item>
+        <item>https://picsum.photos/id/1025/367/267</item>
+    </string-array>
+</resources>
